@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Kaveesha
+### Hello there 👋
 
 ![](https://komarev.com/ghpvc/?username=knirooshan)
 
