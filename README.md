@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=knirooshan)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=knirooshan&show_icons=true)
+![GitHub followers](https://img.shields.io/github/followers/knirooshan?label=Followers&style=social)
 
 
 
