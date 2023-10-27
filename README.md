@@ -9,8 +9,9 @@
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=knirooshan&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knirooshan)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knirooshan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knirooshan)
 
 
 
