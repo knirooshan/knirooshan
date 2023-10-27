@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=knirooshan)
 ![GitHub followers](https://img.shields.io/github/followers/knirooshan?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/knirooshan?style=social)
+![GitHub forks](https://img.shields.io/github/forks/knirooshan?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-knirooshan-blue)](https://www.linkedin.com/in/knirooshan/)
+
 
 
 
