@@ -9,13 +9,8 @@
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=knirooshan&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knirooshan)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knirooshan)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=knirooshan)
-
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=knirooshan)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knirooshan)
 
 
 
