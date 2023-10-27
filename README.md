@@ -9,6 +9,9 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knirooshan)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=knirooshan)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knirooshan)
+
 
 
 
