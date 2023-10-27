@@ -1,9 +1,12 @@
 ### Hello there 👋
 
 ![](https://komarev.com/ghpvc/?username=knirooshan)
+![GitHub followers](https://img.shields.io/github/followers/knirooshan?label=Followers&style=social)
+
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=knirooshan&show_icons=true)
-![GitHub followers](https://img.shields.io/github/followers/knirooshan?label=Followers&style=social)
+
 
 
 
