@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knirooshan&label=Profile%20views&color=0e75b6&style=flat" alt="knirooshan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knirooshan" alt="knirooshan" /></a> </p>
+[![GitHub Dark](https://github-readme-stats.vercel.app/api?username=knirooshan&show_icons=true&theme=dark)](https://github.com/knirooshan)
 
 - 🌱 I’m currently learning **React**
 
