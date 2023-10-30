@@ -86,4 +86,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knirooshan&show_icons=true&locale=en&layout=compact" alt="knirooshan" /></p>
 
 
-<p><img align="center" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=knirooshan&" alt="knirooshan" /></p>
+<p><img align="center" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=knirooshan" alt="knirooshan" /></p>
