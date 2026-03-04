@@ -2,13 +2,8 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kaveesha+%F0%9F%91%8B;Creative+Fullstack+Developer;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Kaveesha+%F0%9F%91%8B;Creative+Fullstack+Developer;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
   </a>
-
-  <br/>
-
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=knirooshan&label=Profile+Views&color=6C63FF&style=flat" alt="Profile views" />
 
 </div>
 
@@ -27,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=knirooshan&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1" alt="knirooshan trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=knirooshan&theme=radical&no-frame=true&margin-w=8&column=7" alt="knirooshan trophies"/>
   </a>
 </p>
 
@@ -62,9 +57,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knirooshan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Kaveesha's GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knirooshan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Kaveesha's GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knirooshan&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knirooshan&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -82,5 +77,5 @@
 ---
 
 <div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <i>✨ "I've got something a little different in mind..." — Tony Stark</i>
 </div>
