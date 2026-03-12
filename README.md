@@ -2,7 +2,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Kaveesha+%F0%9F%91%8B;Creative+Fullstack+Developer;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=17E0A2&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Kaveesha+%F0%9F%91%8B;Creative+Fullstack+Developer;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
   </a>
 
 </div>
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=knirooshan&theme=radical&no-frame=true&margin-w=8&column=7" alt="knirooshan trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=knirooshan&no-frame=true&margin-w=8&column=7&title_color=17E0A2&icon_color=17E0A2&text_color=c9d1d9&bg_color=0d1117" alt="knirooshan trophies"/>
   </a>
 </p>
 
@@ -57,13 +57,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knirooshan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Kaveesha's GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knirooshan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=17E0A2&icon_color=17E0A2&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Kaveesha's GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knirooshan&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=knirooshan&layout=compact&hide_border=true&langs_count=8&title_color=17E0A2&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=knirooshan&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=knirooshan&hide_border=true&count_private=true&ring=17E0A2&fire=17E0A2&currStreakLabel=17E0A2&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&dates=c9d1d9&background=0d1117" height="170" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knirooshan&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knirooshan&hide_border=true&area=true&bg_color=0d1117&color=17E0A2&line=17E0A2&point=ffffff" alt="Contribution Graph"/>
 </p>
 
 ---
