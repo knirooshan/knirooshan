@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=knirooshan&no-frame=true&margin-w=8&column=7&title_color=17E0A2&icon_color=17E0A2&text_color=c9d1d9&bg_color=0d1117" alt="knirooshan trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=knirooshan&no-frame=true&margin-w=8&column=7&title_color=17E0A2&icon_color=17E0A2&text_color=c9d1d9&bg_color=0d1117&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="knirooshan trophies"/>
   </a>
 </p>
 
