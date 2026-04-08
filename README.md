@@ -77,5 +77,5 @@
 ---
 
 <div align="center">
-  <i>✨ "I've got something a little different in mind..." — Tony Stark</i>
+  <i>"I've got something a little different in mind..." - Tony Stark</i>
 </div>
