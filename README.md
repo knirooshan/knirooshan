@@ -9,16 +9,16 @@
 
 ---
 
-### 🙋‍♀️ About Me
+### About Me
 
-- 🔭 I'm a **creative fullstack developer** from 🇱🇰 Sri Lanka
-- 🌱 Always learning and building interesting projects
-- 💬 Ask me about **React, Laravel, PHP, JavaScript**
-- ⚡ Fun fact: I love turning ideas into elegant digital experiences
+- I'm a **creative fullstack developer** from 🇱🇰 Sri Lanka
+- Always learning and building interesting projects
+- Ask me about **React, Laravel, PHP, JavaScript**
+- Fun fact: I love turning ideas into elegant digital experiences
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <!-- Frontend -->
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=knirooshan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=17E0A2&icon_color=17E0A2&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Kaveesha's GitHub Stats"/>
@@ -68,7 +68,7 @@
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knirooshan&hide_border=true&area=true&bg_color=0d1117&color=17E0A2&line=17E0A2&point=ffffff" alt="Contribution Graph"/>
